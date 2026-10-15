@@ -5,8 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kantipudisirisahithichowdari/LeetCode-problems/tree/master/0021-merge-two-sorted-lists) |
+| [0876-middle-of-the-linked-list](https://github.com/kantipudisirisahithichowdari/LeetCode-problems/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kantipudisirisahithichowdari/LeetCode-problems/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/kantipudisirisahithichowdari/LeetCode-problems/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
